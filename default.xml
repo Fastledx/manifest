@@ -5,7 +5,7 @@
             fetch="https://github.com"
             clone-depth="1" />
  <!--Tree -->
- <project path="device/realme/nashc" name="realme-mediatek-devs/android_device_realme_nashc" remote="github" revision="lineage-21-evo" />
+ <project path="device/realme/nashc" name="realme-mediatek-devs/android_device_realme_nashc" remote="github" revision="lineage-21-old-powerhint1" />
 
  <!--Kernel -->
  <project path="kernel/realme/mt6785" name="Fastledx/android_kernel_realme_mt6785" remote="github" revision="lineage-21-old" />
