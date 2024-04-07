@@ -13,15 +13,15 @@
  <!--Vendor -->
  <project path="vendor/realme/nashc" name="Fastledx/android_vendor_realme_nashc" remote="github" revision="lineage-21-old-powerhint1" />
  
-  <!--Tree -->
+  <!--Oplus -->
  <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-21" />
 
- <!-- mediatek_sepolicy_vndr -->
+ <!--Sepolicy_vndr -->
  <project path="device/mediatek/sepolicy/vndr" name="realme-mediatek-devs/android_device_mediatek_sepolicy_vndr" remote="github" revision="lineage-21" />
 
-  <!--Tree -->
+  <!--Mediatek -->
  <project path="hardware/mediatek" name="Fastledx/android_hardware_mediatek" remote="github" revision="pqr2_1" />
  
-   <!--Tree -->
+   <!--Wlan -->
  <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" remote="github" revision="lineage-20" />
 </manifest>
