@@ -24,5 +24,4 @@
  
    <!--Tree -->
  <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" remote="github" revision="lineage-20" />
- 
 </manifest>
