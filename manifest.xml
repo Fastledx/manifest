@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Remotes -->
+    <remote name="github"
+            fetch="https://github.com"
+            clone-depth="1" />
+ <!--Tree -->
+ <project path="device/realme/nashc" name="realme-mediatek-devs/android_device_realme_nashc" remote="github" revision="lineage-21-powerhint1" />
+
+ <!--Kernel -->
+ <project path="kernel/realme/mt6785" name="Fastledx/android_kernel_realme_mt6785" remote="github" revision="lineage-21-old" />
+ 
+ <!--Vendor -->
+ <project path="vendor/realme/nashc" name="Fastledx/android_vendor_realme_nashc" remote="github" revision="lineage-21-old-powerhint1" />
+ 
+  <!--Tree -->
+ <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-21" />
+
+ <!-- mediatek_sepolicy_vndr -->
+ <project path="device/mediatek/sepolicy/vndr" name="realme-mediatek-devs/android_device_mediatek_sepolicy_vndr" remote="github" revision="lineage-21" />
+
+  <!--Tree -->
+ <project path="hardware/mediatek" name="Fastledx/android_hardware_mediatek" remote="github" revision="pqr2_1" />
+ 
+   <!--Tree -->
+ <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" remote="github" revision="lineage-20" />
+ 
+</manifest>
