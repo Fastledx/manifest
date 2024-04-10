@@ -17,7 +17,7 @@
  <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="gh" revision="lineage-21" />
 
  <!--Sepolicy_vndr -->
- <project path="device/mediatek/sepolicy/vndr" name="realme-mediatek-devs/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-21" />
+ <project path="device/mediatek/sepolicy_vndr" name="realme-mediatek-devs/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-21" />
 
   <!--Mediatek -->
  <project path="hardware/mediatek" name="Fastledx/android_hardware_mediatek" remote="gh" revision="pqr2_1" />
