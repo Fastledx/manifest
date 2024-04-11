@@ -24,7 +24,6 @@
  
    <!--Wlan -->
  <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" remote="gh" revision="lineage-20" />
-</manifest>
 
    <!-- Oplus camera -->
  <project path="vendor/oplus/camera" name="Fastledx/android_vendor_oplus_camera" remote="gh" revision="lineage-21" />
