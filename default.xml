@@ -8,10 +8,10 @@
  <project path="device/realme/nashc" name="realme-mediatek-devs/android_device_realme_nashc" remote="gh" revision="lineage-21-evo" />
 
  <!--Kernel -->
- <project path="kernel/realme/mt6785" name="Fastledx/android_kernel_realme_mt6785" remote="gh" revision="lineage-21-old" />
+ <project path="kernel/realme/mt6785" name="Fastlens/android_kernel_realme_mt6785" remote="gh" revision="lineage-21-old" />
  
  <!--Vendor -->
- <project path="vendor/realme/nashc" name="Fastledx/android_vendor_realme_nashc" remote="gh" revision="lineage-21-old-powerhint1" />
+ <project path="vendor/realme/nashc" name="Fastlens/android_vendor_realme_nashc" remote="gh" revision="lineage-21-old-powerhint1" />
  
   <!--Oplus -->
  <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="gh" revision="lineage-21" />
@@ -20,11 +20,11 @@
  <project path="device/mediatek/sepolicy_vndr" name="realme-mediatek-devs/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-21" />
 
   <!--Mediatek -->
- <project path="hardware/mediatek" name="Fastledx/android_hardware_mediatek" remote="gh" revision="pqr2_1" />
+ <project path="hardware/mediatek" name="Fastlens/android_hardware_mediatek" remote="gh" revision="pqr2_1" />
  
    <!--Wlan -->
  <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" remote="gh" revision="lineage-20" />
 
    <!-- Oplus camera -->
- <project path="vendor/oplus/camera" name="Fastledx/android_vendor_oplus_camera" remote="gh" revision="lineage-21" />
+ <project path="vendor/oplus/camera" name="Fastlens/android_vendor_oplus_camera" remote="gh" revision="lineage-21" />
 </manifest>
