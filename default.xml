@@ -8,7 +8,7 @@
  <project path="device/realme/nashc" name="realme-mediatek-devs/android_device_realme_nashc" remote="gh" revision="lineage-21-evo" />
 
  <!--Kernel -->
- <project path="kernel/realme/mt6785" name="Fastlens/android_kernel_realme_mt6785" remote="gh" revision="lineage-21-old" />
+ <project path="kernel/realme/mt6785" name="Fastlens/android_kernel_realme_mt6785" remote="gh" revision="lineage-21" />
  
  <!--Vendor -->
  <project path="vendor/realme/nashc" name="Fastlens/android_vendor_realme_nashc" remote="gh" revision="lineage-21-old-powerhint1" />
