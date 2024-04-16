@@ -20,7 +20,7 @@
  <project path="device/mediatek/sepolicy_vndr" name="realme-mediatek-devs/android_device_mediatek_sepolicy_vndr" remote="gh" revision="lineage-21" />
 
   <!--Mediatek -->
- <project path="hardware/mediatek" name="Fastlens/android_hardware_mediatek" remote="gh" revision="pqr2_1" />
+ <project path="hardware/mediatek" name="Fastlens/android_hardware_mediatek" remote="gh" revision="lineage-21-evo" />
  
    <!--Wlan -->
  <project path="hardware/mediatek/wlan" name="nashc-dev/android_hardware_mediatek_wlan" remote="gh" revision="lineage-20" />
